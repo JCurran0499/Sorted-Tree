@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1579300016 source:c:\users\jackc\onedrive\personal files\code\sortedtree.c
+	"sortedtree.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1579298394 c:\users\jackc\onedrive\personal files\code\sortedtree.h
+
