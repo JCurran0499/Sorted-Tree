@@ -106,9 +106,3 @@ static int listSize(LinkedList *list) {
 
     return 1 + listSize(list -> next);
 }
-
-int main(void) {
-    printf("%d", strcmp("a", "b"));
-
-    return 0;
-}
